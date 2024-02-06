@@ -1,4 +1,4 @@
-# AmyLee.github.io
+# AmyLee
 my first github page for cs155
 
 ## About Me!
